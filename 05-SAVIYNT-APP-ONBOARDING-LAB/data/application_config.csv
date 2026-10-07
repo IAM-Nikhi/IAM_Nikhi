@@ -1,0 +1,7 @@
+field,value
+Application,VendorPay
+AccountCorrelation,employeeId
+CertificationFrequency,Quarterly
+TerminationAction,Disable account and remove roles
+PrivilegedEntitlement,VendorPay-Admin
+SoDConflict,VendorPay-Creator + VendorPay-Approver
