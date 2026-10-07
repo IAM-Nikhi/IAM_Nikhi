@@ -1,0 +1,2 @@
+employee_id,first_name,last_name,worker_type,department,title,manager_id,location,status
+E100500,Nina,Patel,Employee,Treasury,Treasury Analyst,E100200,Raleigh,Active
