@@ -1,0 +1,9 @@
+stage,system,access,expected_state
+Joiner,AD,Employees-All,Present
+Joiner,AD,Finance-Users,Present
+Joiner,Entra ID,M365-Baseline,Present
+Mover,AD,Finance-Users,Removed
+Mover,AD,Treasury-Users,Present
+Leaver,AD,Account,Disabled
+Leaver,Entra ID,Interactive Sign-In,Blocked
+Leaver,Applications,Role Access,Removed
