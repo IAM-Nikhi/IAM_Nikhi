@@ -1,0 +1,7 @@
+timestamp,event_type,user,application,status,detail
+2026-10-01T09:01:00,login,NinaPatel,EntraID,success,Normal login
+2026-10-05T18:20:00,termination,NinaPatel,HR,complete,Termination received
+2026-10-05T18:40:00,login,NinaPatel,VPN,success,Login after termination
+2026-10-05T19:00:00,provisioning,AlexBrown,ERP,failed,Connector timeout
+2026-10-05T19:15:00,provisioning,AlexBrown,ERP,failed,Connector timeout
+2026-10-05T20:00:00,group_change,svc-admin,AD,success,Added user to Domain Admins
