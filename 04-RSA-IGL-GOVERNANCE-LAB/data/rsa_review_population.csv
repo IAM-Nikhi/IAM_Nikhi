@@ -1,0 +1,5 @@
+identity,status,account,application,entitlement,privileged,manager
+Nina Patel,Active,npatel,TreasuryApp,View Payment,No,Mark Lewis
+Alex Brown,Terminated,abrown,ERP,AP-Approver,Yes,Sarah Kim
+,Unknown,svc_old_01,LegacyApp,Admin,Yes,
+Jordan Lee,Active,jlee,HRPortal,Employee-SelfService,No,David Ross
